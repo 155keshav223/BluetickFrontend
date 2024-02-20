@@ -1,0 +1,33 @@
+.blog-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  .blog-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  
+  .blog-box {
+    padding: 20px;
+    background-color: #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .blog-box:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  h1,
+  h2 {
+    color: #fff;
+  }
+  
+  a {
+    color: lightblue;
+  }
+  
