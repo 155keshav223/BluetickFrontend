@@ -3,9 +3,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Procedure to run the website;
 step1: Download the project and open it in the vscode.
+
 step2: Download all the required Node_modules (type npn install)
+
 step 3: to run the program type npm start and the website will start on the localhost.
 
+### Screenshot of webpages:
+
+![home](https://github.com/155keshav223/BluetickFrontend/assets/88696438/c4026dfd-c155-4b5e-a4dc-71db74f18cb5)
+
+![about](https://github.com/155keshav223/BluetickFrontend/assets/88696438/1a448a39-23f0-43f1-95bd-8a8fc900cc9a)
+
+![blog](https://github.com/155keshav223/BluetickFrontend/assets/88696438/a917f4a2-a8c5-441a-b541-0659e6da2c6d)
+
+![contact](https://github.com/155keshav223/BluetickFrontend/assets/88696438/efe7f404-77f6-485e-ae15-eeb7e2c4b843)
 
 ## Available Scripts
 
