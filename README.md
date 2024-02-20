@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Procedure to run the website;
+step1: Download the project and open it in the vscode.
+step2: Download all the required Node_modules (type npn install)
+step 3: to run the program type npm start and the website will start on the localhost.
+
 
 ## Available Scripts
 
